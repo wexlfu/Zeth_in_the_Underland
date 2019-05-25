@@ -1,0 +1,6 @@
+title="Zeth in the Underland"
+version="@VERSION@"
+author=shacknetisp
+type=campaign
+passphrase="@PASSPHRASE@"
+email="@EMAIL@"
