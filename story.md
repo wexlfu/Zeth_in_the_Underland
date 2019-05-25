@@ -14,9 +14,3 @@ The layout of the tomb corresponds to the stages of Abel's life.
 * Death - The undead.
  * Abel dead.
 * Abel
-
-# Scenarios
-## Entrance
-* Getting into the tomb.
-
-## Earth
