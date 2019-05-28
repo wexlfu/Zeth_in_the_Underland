@@ -1,6 +1,8 @@
 title="Zeth in the Underland"
 version="@VERSION@"
+icon="@ICON@"
 author=shacknetisp
 type=campaign
 passphrase="@PASSPHRASE@"
 email="@EMAIL@"
+description="@DESCRIPTION@"
