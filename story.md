@@ -1,16 +1,16 @@
 # Layout
-The layout of the tomb corresponds to the stages of Abel's life.
+The layout of the tomb corresponds to the stages of Abari's life.
 
 * Earth - Animations.
- * Abel in his youth.
+ * Abari in his youth.
 * Power - Fire, magic.
- * Abel becoming stronger.
+ * Abari becoming stronger.
 * Water - Water.
- * Abel learning about peace.
+ * Abari learning about peace.
 * Life - Lush forest.
- * Abel working healing magic.
+ * Abari working healing magic.
 * Insanity - Twisted monstrosities.
- * Abel overcome.
+ * Abari overcome.
 * Death - The undead.
- * Abel dead.
-* Abel
+ * Abari dead.
+* Abari
