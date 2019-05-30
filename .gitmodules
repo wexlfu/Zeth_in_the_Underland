@@ -1,4 +1,4 @@
 [submodule "Wexlfu"]
 	path = Wexlfu
 	url = ../Wexlfu
-	branch = master
+	branch = release-1
