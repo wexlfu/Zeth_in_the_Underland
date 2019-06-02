@@ -24,7 +24,7 @@ The Tomb of Abari and all it's living power comes to kill Zeth after he escapes 
 #### Exhaustion
 The Tomb collapses and Zeth must fight his way out of the Valley of Life as undead rise up and disperse in chaotic writhing.
 
-### Risen
+### Entombed
 Zeth must battle the undead portion of the Tomb to capture Abari's body.
 
 #### Emergence
